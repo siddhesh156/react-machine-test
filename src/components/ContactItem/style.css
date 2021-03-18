@@ -1,0 +1,23 @@
+.contact_item_container{
+    width: 450px;
+    margin: 20px;
+    border: 1px solid #acacac;
+    border-left: 4px solid orange;
+    padding: 10px;
+}
+
+.contact_name_txt{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.contact_position_txt{
+    margin-left: 10px;
+    font-size: 15px;
+    color: grey;
+}
+
+.reval_btn{
+    color: blue;
+    cursor: pointer;
+}
